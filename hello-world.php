@@ -1,7 +1,7 @@
 <?php
 
 
-echo ("Hellow World: third change")
+echo ("Hellow World: third change");
 echo ("Hellow World: first change");
 
 echo ("Hellow World: Starting new cool feature");
