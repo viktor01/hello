@@ -1,7 +1,7 @@
 <?php
 
 
-echo ('Hellow World. Not commit yet')
+echo ("Hellow World: Not commit yet")
 
 
 ?>
